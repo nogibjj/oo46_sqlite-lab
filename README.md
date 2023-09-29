@@ -1,4 +1,4 @@
-[![SQLite Lab](https://github.com/nogibjj/oo46_sqlite-lab/blob/main/.github/workflows/cicd.yml/badge.svg)][def]
+[![SQLite_Lab](https://github.com/nogibjj/oo46_sqlite-lab/blob/main/.github/workflows/cicd.yml/badge.svg)][def]
 
 # SQLite Lab - Week 5 mini project
 
