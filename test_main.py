@@ -8,6 +8,7 @@ from mylib.extract import extract
 from main import main
 import unittest
 
+
 # load the data
 query_1 = query()
 query_2 = myquery()

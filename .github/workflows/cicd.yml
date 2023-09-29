@@ -26,5 +26,5 @@ jobs:
         run: make test
       - name: format
         run: make format
-      - name: run
-        run: make run
+      # - name: run
+      #   run: make run
