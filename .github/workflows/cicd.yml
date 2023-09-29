@@ -1,4 +1,4 @@
-name: SQLite_Lab
+name: SQLite Lab
 on:
   push:
     branches: ["main"]
