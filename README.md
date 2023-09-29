@@ -2,7 +2,6 @@
 
 # SQLite Lab - Week 5 mini project
 
-
 ## The current implementation of the Mini-project can be executed as follows:
 
 1. All dependencies needed for execution can be found in the [requirement.txt](https://github.com/nogibjj/oo46_sqlite-lab/blob/main/requirements.txt) file.
@@ -14,11 +13,17 @@
 ## Mini-project deliverables:
 
 ### Application output:
+
 ![Output](output.png)
 
 ### Testing outcome:
+
 ![Test](test.png)
 
+### Github actions:
+
+![Gitactions](actions.png)
+
+![Gitaction](actions_1.png)
+
 [def]: https://github.com/nogibjj/oo46_sqlite-lab/blob/main/.github/workflows/cicd.yml
-
-
